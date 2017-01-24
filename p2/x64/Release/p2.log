@@ -1,0 +1,18 @@
+﻿  ball.cpp
+  graphics1.cpp
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutBitmapCharacter
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+graphics1.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutMouseFunc
+graphics1.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutEnterGameMode
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutGameModeString
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+graphics1.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\Lee Taylor\Desktop\spring 2017\CS3600\p2\x64\Release\p2.exe : fatal error LNK1120: 15 unresolved externals
